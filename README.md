@@ -15,7 +15,7 @@ y buena organizacion ya que el codigo se divide en clases
 ## Como ejecutar el proyecto
 ### 1. Clonar el proyecto
 ```bash
-git clone 
+git clone https://github.com/rogelio20031/flask-images.git
 ```
 
 ### 2. Ejecutar con Docker Compose
